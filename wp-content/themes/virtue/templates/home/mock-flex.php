@@ -9,7 +9,7 @@
                       </li>
                       <li> 
                         <a href="http://kadencethemes.com/product/virtue-premium-theme/" target="_blank" >
-                          <img src="<?php echo get_template_directory_uri(); ?>/assets/img/slide_02.jpg" width="1170px" height="450px" alt="Example Slider 02"/>
+                          <img src="<?php echo get_template_directory_uri(); ?>/assets/img/slide_02.png" width="1170px" height="450px" alt="Example Slider 02"/>
                         </a>
                       </li>
         </ul>
