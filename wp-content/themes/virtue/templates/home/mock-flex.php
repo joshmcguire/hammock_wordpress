@@ -3,12 +3,12 @@
     <div class="flexslider loading" >
         <ul class="slides">
                       <li> 
-                        <a href="http://kadencethemes.com/product/virtue-premium-theme/" target="_blank" >
+                        <a href="/buy-hammocks/">
                           <img src="<?php echo get_template_directory_uri(); ?>/assets/img/slide_01.jpg" width="1170px" height="450px" alt="Example Slider 01" />
                         </a>
                       </li>
                       <li> 
-                        <a href="http://kadencethemes.com/product/virtue-premium-theme/" target="_blank" >
+                        <a href="/buy-hammocks/" target="_blank" >
                           <img src="<?php echo get_template_directory_uri(); ?>/assets/img/slide_02.png" width="1170px" height="450px" alt="Example Slider 02"/>
                         </a>
                       </li>
